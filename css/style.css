@@ -3,7 +3,7 @@
     box-sizing: border-box;
     padding: 0;
     font-family: 'Lato', sans-serif;
-    
+    /* font-weight: 700; */
 }
 
 body{
@@ -75,6 +75,7 @@ body{
 }
 .mainsquare h2{
     color: #444851;
+    font-weight: bolder;
     
 }
 .tasks{
@@ -82,11 +83,8 @@ body{
 }
 .mainsquare p{
     margin: 20px 0;
-    
-    
-    
-
 }
+
 .editorial{
     background-color: #45abea;
     border-radius: 16%;
