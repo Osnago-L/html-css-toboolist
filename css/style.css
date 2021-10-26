@@ -2,6 +2,8 @@
     margin: 0;
     box-sizing: border-box;
     padding: 0;
+    font-family: 'Lato', sans-serif;
+    
 }
 
 body{
@@ -19,7 +21,7 @@ body{
 #logo_text{
     color: #051931 ;
     font-size: 40px;
-    font-family: Arial;
+    font-family: 'Lato', sans-serif;
     font-weight: bold;
     line-height: 50px;
     vertical-align: top;
@@ -47,6 +49,7 @@ body{
     margin-left: 40px;
     
     
+    
 }
 .whitebutton{
     background-color: white;
@@ -57,6 +60,7 @@ body{
     border-radius: 10%;
     cursor: pointer;
     padding: 2px;
+    
     
 }
 .mainsquare{
@@ -69,12 +73,17 @@ body{
     padding: 40px 60px;
     
 }
+.mainsquare h2{
+    color: #444851;
+    
+}
 .tasks{
     margin-bottom: 40px;
 }
 .mainsquare p{
     margin: 20px 0;
-    font-family: Arial;
+    
+    
     
 
 }
@@ -84,6 +93,7 @@ body{
     color: white;
     font-size: 10px;
     padding: 6px 9px;
+   
 }
 .goals{
     background-color: #9c72e4;
@@ -115,8 +125,8 @@ body{
 }
 .sales{
 
-     background-color: #b0c927;
-   border-radius: 16%;
+    background-color: #b0c927;
+    border-radius: 16%;
     color: white;
     font-size: 10px;
     padding: 6px 9px; 
