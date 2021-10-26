@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background-color: #f6f8f9;
+     
+}
+.head{
+    background-color: white;
+    padding: 10px;
+    
+}
+.logo{
+    margin-left: 15px;  
+}
+#logo_text{
+    color: #051931 ;
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 50px;
+    vertical-align: top;
+}
+.navsquare{
+    width: 60%;
+    height: 60px;
+    margin: auto;
+    margin-top: 100px ;
+    margin-bottom: 20px;
+    background-color: white;
+    
+}
+.bluebutton{
+    background-color: #47adf1;
+    color: white;
+    height: 30px;
+    width: 90px;
+    border: 1px solid #47adf1;
+    border-radius: 10%;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: 2px;
+    
+}
+.whitebutton{
+    background-color: white;
+    color:#c8cdd2 ;
+    height: 30px;
+    width: 90px;
+    border: 1px solid #c8cdd2;
+    border-radius: 10%;
+    cursor: pointer;
+    padding: 2px;
+    vertical-align: middle;
+    
+}
+
